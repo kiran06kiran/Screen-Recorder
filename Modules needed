@@ -1,0 +1,6 @@
+Numpy: To install Numpy type the below command in the terminal.
+pip install numpy
+pyautogui: To install pyautogui type the below command in the terminal.
+pip install pyautogui
+OpenCV: To install OpenCV type the below command in the terminal.
+pip install opencv-python
